@@ -15,3 +15,12 @@ The link to the Paytabs logo was also broken so the image didn't show when initi
 - Modified admin/view file to use variables merchant instead of plain text
 - Modified admin/controller file to load 'entry_password' instead of 'entry_secret'
 - Added help text for configuartion fields
+
+### Screenshots
+Before:
+![listing](#)
+![config](#)
+
+After:
+![listing](#)
+![config](#)
