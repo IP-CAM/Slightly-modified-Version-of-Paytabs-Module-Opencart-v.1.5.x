@@ -12,7 +12,7 @@ The link to the Paytabs logo was also broken so the image didn't show when initi
 
 - Fixed broken link for logo image
 - Added language variables
-- Modified admin/view file to use variables merchant instead of plain text
+- Modified admin/view file to use merchant variables instead of plain text
 - Modified admin/controller file to load 'entry_password' instead of 'entry_secret'
 - Added help text for configuartion fields
 
