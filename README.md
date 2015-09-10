@@ -16,11 +16,15 @@ The link to the Paytabs logo was also broken so the image didn't show when initi
 - Modified admin/controller file to load 'entry_password' instead of 'entry_secret'
 - Added help text for configuartion fields
 
-### Screenshots
-Before:
+Screenshots
+---
+
+### Before:
+
 ![Module listing page before](https://github.com/aamnah/opencart-paytabs/blob/master/screenshots/paytabs-1a.png)
 ![Configuration before](https://github.com/aamnah/opencart-paytabs/blob/master/screenshots/paytabs-1b.png)
 
-After:
+### After:
+
 ![Module listing page before](https://github.com/aamnah/opencart-paytabs/blob/master/screenshots/paytabs-2a.png)
 ![Configuration afterwards](https://github.com/aamnah/opencart-paytabs/blob/master/screenshots/paytabs-2b.png)
